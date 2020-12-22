@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# BSV.domains
+# bsv.domains
+
+<img loading="lazy" width="266" height="200" src="https://miro.medium.com/max/800/0*5s8yhG12anXIuvVJ" alt="" class="wp-image-539">
 
 - bitcoinsv.ai
 - bitcoinsv.bargains
