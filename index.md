@@ -6,7 +6,7 @@ layout: default
 
 Contact <a href="mailto:craig@bsv.domains">craig@bsv.domains</a> or <a href="mailto:dave@bsv.domains">dave@bsv.domains</a> to purchase or lease a domain. 
 
-<img loading="lazy" width="266" height="200" src="https://miro.medium.com/max/800/0*5s8yhG12anXIuvVJ" alt="" class="wp-image-539">
+<img loading="lazy" width="266" height="200" src="https://media1.tenor.com/images/826d61d3a97196165e72e0e345b69e2a/tenor.gif?itemid=14700501" alt="" class="wp-image-539">
 
 - bitcoinsv.ai
 - bitcoinsv.bargains
