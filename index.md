@@ -54,6 +54,8 @@ layout: default
 - bitcoinsv.ws
 - bitcoinsv.wtf
 
+<p></p>
+
 - bsv.bargains
 - bsv.builders
 - bsv.careers
