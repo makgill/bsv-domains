@@ -53,8 +53,8 @@ Contact <a href="mailto:craig@bsv.domains">craig@bsv.domains</a> or <a href="mai
 - bitcoinsv.wales
 - bitcoinsv.watch
 - bitcoinsv.wiki
-- bitcoinsv.work
-- bitcoinsv.works
+- ~~bitcoinsv.work~~
+- ~~bitcoinsv.works~~
 - bitcoinsv.ws
 - bitcoinsv.wtf
 
